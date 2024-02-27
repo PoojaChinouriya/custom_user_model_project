@@ -1,0 +1,11 @@
+INFO 2023-12-29 11:30:54,814 views success_logger User created with username user2
+INFO 2023-12-29 11:33:04,097 views success_logger User created with username user3
+INFO 2023-12-29 12:13:38,997 views success_logger User created with username user4
+INFO 2023-12-29 12:39:05,328 views success_logger User created with username user5
+INFO 2023-12-29 12:47:55,212 views success_logger Users Fetched Successfully
+INFO 2023-12-29 12:48:31,666 views success_logger User details fetched successfully
+INFO 2023-12-29 12:49:01,602 views success_logger User details fetched successfully
+INFO 2023-12-29 12:51:39,116 views success_logger User details fetched successfully
+INFO 2023-12-29 12:52:24,512 views success_logger User details fetched successfully
+INFO 2023-12-29 12:52:52,037 views success_logger User details fetched successfully
+INFO 2023-12-29 12:54:15,241 views success_logger Users Fetched Successfully

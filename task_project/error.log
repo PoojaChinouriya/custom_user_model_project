@@ -1,0 +1,4 @@
+ERROR 2023-12-29 11:30:27,366 views error_logger Error saving the user data {'username': [ErrorDetail(string='A user with that username already exists.', code='unique')]}
+ERROR 2023-12-29 12:42:42,754 views error_logger Error Fetching user details
+ERROR 2023-12-29 12:51:39,117 views error_logger Error Fetching user details
+ERROR 2023-12-29 12:52:24,513 views error_logger Error Fetching user details
